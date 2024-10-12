@@ -1,5 +1,5 @@
 function calculadora() {
-    let n1 = parseInt(prompt("Digite o primeiro numero: "))
+let n1 = parseInt(prompt("Digite o primeiro numero: "))
 let operador = prompt("Digite o operador: ")
 let n2 = parseInt(prompt("Digite o segundo numero: "))
 
