@@ -1,5 +1,5 @@
 # Estrutura_de_Dados
-# Exercício
+# Exercício 01 - 02-web-node
 1. Calculadora utilizando prompt e alert:
 
 - Crie uma calculadora simples que solicite dois números através do prompt.
